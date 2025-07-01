@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'Screens/splash_screen.dart'; // Yeni oluşturduğunuz splash ekran dosyası
-import 'Pages/home_page.dart';
-import 'Pages/ble_scanner_page.dart';
-import 'Pages/settings_page.dart';
+import 'screens/splash_screen.dart'; // Yeni oluşturduğunuz splash ekran dosyası
+import 'pages/home_page.dart';
+import 'pages/ble_scanner_page.dart';
+import 'pages/settings_page.dart';
 
 void main() {
   runApp(const MyApp());

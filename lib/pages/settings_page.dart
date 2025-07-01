@@ -1,7 +1,7 @@
 // settings_page.dart
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import '../ble_helper.dart';
+import '../utils/ble_helper.dart';
 import '../utils/colors.dart';
 
 class SettingsPage extends StatefulWidget {

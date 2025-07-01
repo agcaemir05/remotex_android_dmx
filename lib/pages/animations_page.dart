@@ -2,8 +2,7 @@ import 'dart:async';
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import '../Utils/ble_helper.dart';
-import '../Utils/ble_helper.dart'; // Buton stil fonksiyonları
+import '../utils/ble_helper.dart';
 import '../utils/colors.dart'; // GetX tema renkleri
 
 /// Animasyon türleri. 'rainbowSeq' pikselleri sırayla rainbow yapar.

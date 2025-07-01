@@ -4,8 +4,8 @@ import 'package:flutter_blue_plus/flutter_blue_plus.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import '../ble_helper.dart';
-import 'package:remotex_android_dmx/Utils/colors.dart';
+import '../utils/ble_helper.dart';
+import 'package:remotex_android_dmx/utils/colors.dart';
 
 
 class BleScannerPage extends StatefulWidget {

@@ -1,5 +1,5 @@
 // home_page.dart
-import 'package:RemoteX/Pages/pixel_control_page.dart';
+import 'package:RemoteX/pages/pixel_control_page.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:flutter_blue_plus/flutter_blue_plus.dart';
@@ -14,7 +14,7 @@ import 'ble_scanner_page.dart';
 import 'settings_page.dart';
 import 'voice_control_page.dart'; // Yeni eklenen VU Meter sayfası
 import '../utils/colors.dart';
-import '../ble_helper.dart';
+import '../utils/ble_helper.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);

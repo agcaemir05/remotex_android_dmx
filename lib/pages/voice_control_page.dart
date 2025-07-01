@@ -4,9 +4,9 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:noise_meter/noise_meter.dart';
 import 'package:permission_handler/permission_handler.dart';
-import '../ble_helper.dart';
+import '../utils/ble_helper.dart';
 import '../utils/colors.dart';
-import '../Utils/style.dart';
+import '../utils/style.dart';
 
 class VuMeterPage extends StatefulWidget {
   const VuMeterPage({Key? key}) : super(key: key);

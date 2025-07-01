@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import '../ble_helper.dart';
+import '../utils/ble_helper.dart';
 import '../utils/colors.dart'; // GetX tema renkleri
 
 class ClassicColorsPage extends StatefulWidget {
